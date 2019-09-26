@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import sys
 import requests
 import logging
@@ -74,7 +73,6 @@ def sendSMSToODKServer(form, kv_map):
     Sends the SMS to the ODK server online
     """
     url = DESTINATION + '/' + form
-
     logging.info('Submitting parsed JSON object %s ' % url)
 
     response = requests.post(url, data=kv_map)

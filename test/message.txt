@@ -1,0 +1,15 @@
+RECEIVED
+From: 243818388893
+From_TOA: 91 international, ISDN/telephone
+From_SMSC: 243818179901
+Sent: 19-09-23 14:10:53
+Received: 19-09-23 14:11:03
+Subject: GSM1
+Modem: GSM1
+IMSI: 630010240515368
+IMEI: 866658020530083
+Report: no
+Alphabet: ISO
+Length: 336
+
+sonu+s+2019-09-23T14:10:02.640:01+e+2019-09-23T14:10:38.814:01+d+356753100242340+pr+Kasai Central DPS+hz+kr Lukonga+ha+kr Lubuyi Aire de Sa+str+kr La Paix Centre de Sante+ts+CS+dpd+non+spd+oui+spc+non+ind+non+ijd+oui+ijc+non+dd+non+ocd+oui+occ+non+aid+oui+aic+non+smd+oui+smc+oui+sad+oui+saf+non+vd+non+bvd+oui+bvf+non+pd+non+kpd+non+-----
