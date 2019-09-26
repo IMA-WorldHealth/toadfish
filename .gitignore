@@ -1,0 +1,9 @@
+*.log
+
+# ignore editor-specific working files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+.idea/*
+*~
+
+.env
